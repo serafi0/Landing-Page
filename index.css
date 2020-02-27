@@ -1,0 +1,139 @@
+
+
+
+
+
+
+body{
+    background-image: linear-gradient(21deg, #707070 5%, #ffffff 5%, #ffffff 50%, #707070 50%, #707070 55%, #ffffff 55%, #ffffff 100%);
+    background-size: 27.90px 10.71px;
+
+
+}
+
+/*.repeat {*/
+    /*background-image:*/
+            /*repeating-linear-gradient(*/
+                    /*21deg,*/
+                    /*#70707,*/
+                    /*#70707 10px,*/
+                    /*red 10px,*/
+                    /*red 20px !* determines size *!*/
+            /*);*/
+    /*opacity: 16%;*/
+
+/*}*/
+
+
+h3.class444{ font-size: 30px;
+    font-family: Roboto-Bold, Roboto;
+    font-weight: 700;
+
+    opacity: 0.268;}
+
+
+.kkk{
+    background-image: url("resources/Group 820.png");
+    width:100%;
+    height: 100%;
+    border:1px solid gray;
+    padding:8px;}
+.lfff{
+    background-image: url("resources/shea-rouda-Vtl6cOhO87Y-unsplash.png");
+    width:100%;
+    height: 100%;
+    /*border:1px solid gray;*/
+    padding:8px;
+}
+/* Centered text */
+.img-cont {
+    position: relative;
+    text-align: justify;
+}
+
+.centered {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Roboto, serif;
+    font-size: 16px;
+    /*font-weight: bold;*/
+
+    opacity: 87%;
+
+}
+.centered-card-text {
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Roboto-Bold, Roboto, serif;
+    font-size: 16px;
+    /*font-weight: bold;*/
+
+    opacity: 87%;
+
+}
+.centered-card-button {
+    position: absolute;
+    top: 84%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Roboto-Bold, Roboto, serif;
+    font-size: 16px;
+    /*font-weight: bold;*/
+
+    opacity: 87%;
+
+}
+.top-left {
+    position: absolute;
+    top: 20%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    font-family: Roboto, serif;
+    font-size: 16px;
+    font-weight: bold;
+
+    opacity: 87%;}
+
+
+/*button{*/
+/*background: #D53434;*/
+    /*color: white;*/
+
+
+
+/*}*/
+/*.top-left {*/
+    /*position: absolute;*/
+    /*top: 66px;*/
+    /*left: 30px;*/
+
+    /*font-family: Roboto, serif;*/
+    /*font-weight: bold;*/
+
+/*}*/
+
+
+/*.top h2 {*/
+    /*color: white;*/
+    /*margin: 0;*/
+    /*padding: 20px;*/
+/*}*/
+
+/*.mid h2 {*/
+    /*font-family: 'Roboto', sans-serif;*/
+    /*font-weight: 900;*/
+    /*color: white;*/
+    /*text-transform: uppercase;*/
+    /*margin: 0;*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*font-size: 2rem;*/
+    /*transform: translate(-50%, -50%);*/
+/*}*/
+
+
