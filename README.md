@@ -1,13 +1,6 @@
 
 # landing page task
 
-still a work in progress...
-
-## info
-
-- still has a lot of issues.
-- heavily relies on bootstrap for CSS.
-
 
 # 
 
